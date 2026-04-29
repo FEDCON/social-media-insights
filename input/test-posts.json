@@ -1,0 +1,14 @@
+{
+  "test_name": "social-media-insights-full-pipeline-2026-04-29",
+  "test_type": "multi-platform-post-analysis",
+  "posts": [
+    "https://www.tiktok.com/@karpathy/video/7123456789",
+    "https://www.instagram.com/p/ABC123DEF456/",
+    "https://twitter.com/swyx/status/1234567890"
+  ],
+  "agent_context": {
+    "agent_name": "test-agent",
+    "projects": ["cortextos-framework", "agent-optimization"],
+    "goals": ["improve-agent-workflows", "enhance-automation"]
+  }
+}

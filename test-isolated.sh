@@ -13,7 +13,7 @@ export CTX_AGENT_NAME="test-worker-01"
 export CTX_PROJECTS="cortextos-framework,agent-optimization"
 export CTX_GOALS="improve-workflows,enhance-automation"
 
-SKILL_DIR="/Users/cortextos/cortextos/orgs/lifeos/agents/boris/.claude/skills/social-media-insights"
+SKILL_DIR="$HOME/cortextos/orgs/lifeos/agents/boris/.claude/skills/social-media-insights"
 cd "$SKILL_DIR"
 
 echo "[test-worker-01] Loading skill: social-media-insights"
